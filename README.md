@@ -243,5 +243,5 @@ More options are available [here](https://beam.apache.org/documentation/runners/
 
 Beam is quite low level when it comes to write custom transformation, then offering the flexibily one might need. It is fast and handles cloud / distributed environments. If you look at a higher level API/SDK, some libraries like tf.transform are actually built on top of Beam and offer you its power while coding less. The trade-off lays in the flexibility you are looking for.
 
-The code for this article is available on GitHub [here](https://github.com/vincentteyssier/apache-beam-tutorial).
+The code for this article is available on GitHub [here](https://github.com/rodrigobc/apache-beam-tutorial).
 
